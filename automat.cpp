@@ -16,7 +16,7 @@
 	   
 	   
 	   
-	   
+	   // Hello Word!
 	   
 	   
 	   
@@ -34,7 +34,7 @@
     printf("1. Coca-Cola");            printf("\t\t\t1.00zl\n");
     printf("2. Snickers");               printf("\t\t\t1.30zl\n");
     printf("3. Lody Oreo");            printf("\t\t\t1.20zl\n");
-    printf("4. Lays Chips");           printf("\t\t\t1.50zl\n");
+    printf("4. cos nowego");           printf("\t\t\t1.50zl\n");
     printf("5. Anuluj");
     printf("\n\n");
  
@@ -67,7 +67,7 @@ printf("Wybrales Lays Chips.");                    printf("\t\t\t1.50zl\n");
    case 5:
       break;
    default:
-      printf("Nieprawid³owe dane wejsciowe!\n");
+      printf("Nieprawidï¿½owe dane wejsciowe!\n");
       break;
 }
 return;
@@ -291,7 +291,7 @@ void czekaj(int sek)
                                  printf("\t\t\tProdukt #%d jest wydawany\n",q);
                                  czekaj(5);
                                 }
-                            printf("\n\t\t    *Zabierz swój produkt. i milego dnia!!*");
+                            printf("\n\t\t    *Zabierz swï¿½j produkt. i milego dnia!!*");
                              break;
                             }
                            }
